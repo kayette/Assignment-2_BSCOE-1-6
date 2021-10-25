@@ -1,4 +1,4 @@
-name=input("Enter your name: ")
+name=input("\nEnter your name: ")
 age=int(input("Enter your age: "))
 address=input("Enter your address: ")
-print(f"Hi, my name is {name}. I am {age} years old and I live in {address}.")
+print(f"\nHi, my name is {name}. I am {age} years old and I live in {address}. \n")
